@@ -1,0 +1,784 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "913f19a9-8bde-4f1b-98e5-ff93dc166c2f")
+	(paper "A4")
+	(title_block
+		(title "Project Antares - Receiver")
+		(date "2024-08-22")
+		(rev "Rev 1")
+		(company "Ouroboros Embedded Education")
+		(comment 1 "Pablo Jean Rozario")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 146.05 90.17) (xy 181.61 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02372cda-f32b-4f27-907b-50d85e7faeb9")
+	)
+	(wire
+		(pts
+			(xy 74.93 82.55) (xy 101.6 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "129aa8ec-9944-467a-bb98-ab1f34968f5b")
+	)
+	(wire
+		(pts
+			(xy 146.05 74.93) (xy 162.56 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26ae92ca-dbf6-409c-ac35-6c7624ca270a")
+	)
+	(wire
+		(pts
+			(xy 181.61 81.28) (xy 172.72 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3acfdb56-4e10-4a32-a925-34117dd1bd70")
+	)
+	(wire
+		(pts
+			(xy 146.05 95.25) (xy 181.61 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f1dc229-6b92-436c-8006-e2fef391d95a")
+	)
+	(wire
+		(pts
+			(xy 74.93 80.01) (xy 101.6 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a2af507-b14d-43f4-831f-77d374a45f45")
+	)
+	(wire
+		(pts
+			(xy 172.72 81.28) (xy 172.72 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57866d5a-0780-4f1a-8f6b-2fa2f5ac1db2")
+	)
+	(wire
+		(pts
+			(xy 172.72 85.09) (xy 146.05 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "638af89d-93e6-4824-b583-694dc1812309")
+	)
+	(wire
+		(pts
+			(xy 162.56 74.93) (xy 162.56 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75055b36-f794-45c7-b8ab-dc11d4f111c7")
+	)
+	(wire
+		(pts
+			(xy 165.1 73.66) (xy 165.1 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8614d1af-a47d-4987-9466-55e2ec2d3a0e")
+	)
+	(wire
+		(pts
+			(xy 74.93 77.47) (xy 101.6 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92edf202-6e00-4170-b1ad-9aa6054cba1f")
+	)
+	(wire
+		(pts
+			(xy 170.18 82.55) (xy 146.05 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "951b9e32-8bf6-4d63-a713-4caac2b69078")
+	)
+	(wire
+		(pts
+			(xy 146.05 100.33) (xy 181.61 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "977a6e0b-6603-4ac1-8288-6eb8a815fb58")
+	)
+	(wire
+		(pts
+			(xy 146.05 102.87) (xy 181.61 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a1ff0b1-5e64-43f1-bc76-c9649eb26d26")
+	)
+	(wire
+		(pts
+			(xy 165.1 77.47) (xy 146.05 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2e532f4-e815-47dd-a6c1-1037d317e876")
+	)
+	(wire
+		(pts
+			(xy 167.64 80.01) (xy 167.64 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b11f0043-7860-4ff3-aab6-839e0526dd95")
+	)
+	(wire
+		(pts
+			(xy 146.05 92.71) (xy 181.61 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf3f36c0-9fde-426f-b55c-5b98cda772a4")
+	)
+	(wire
+		(pts
+			(xy 162.56 71.12) (xy 181.61 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c37cfb02-764d-499e-afa6-e4c455b95741")
+	)
+	(wire
+		(pts
+			(xy 167.64 76.2) (xy 181.61 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2abaf81-8928-4e55-8c5a-e0e9ebc89cde")
+	)
+	(wire
+		(pts
+			(xy 74.93 72.39) (xy 101.6 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d44ea30d-cb3e-4638-bb2d-0e25fed66bd0")
+	)
+	(wire
+		(pts
+			(xy 74.93 74.93) (xy 101.6 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df6b2218-9950-4113-b19f-80f64cfdb051")
+	)
+	(wire
+		(pts
+			(xy 146.05 97.79) (xy 181.61 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3f5491f-cf8e-4dd3-9207-3af356616d47")
+	)
+	(wire
+		(pts
+			(xy 181.61 78.74) (xy 170.18 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7ff546a-5eec-4453-9785-c8e94d78b863")
+	)
+	(wire
+		(pts
+			(xy 146.05 80.01) (xy 167.64 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2ec5f66-7750-4adb-8fd5-7b93aff27642")
+	)
+	(wire
+		(pts
+			(xy 181.61 73.66) (xy 165.1 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7b2e966-ad3c-4afa-b91e-14d05f343b79")
+	)
+	(wire
+		(pts
+			(xy 170.18 78.74) (xy 170.18 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc8ea366-87d4-48c2-896f-c47a3bf18d62")
+	)
+	(sheet
+		(at 181.61 87.63)
+		(size 30.48 19.685)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3dac5b74-5ae0-4a49-abdb-9165c94eab1b")
+		(property "Sheetname" "Radio 915MHz"
+			(at 181.61 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "radio.kicad_sch"
+			(at 181.61 107.8996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CC1101_~{CS}" input
+			(at 181.61 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify left)
+			)
+			(uuid "10aa5ae3-4714-4c0d-ae3d-ec8a99291f79")
+		)
+		(pin "CC1101_GDO2" bidirectional
+			(at 181.61 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify left)
+			)
+			(uuid "54bb6ed6-d725-40d8-97aa-b94d6ef957d6")
+		)
+		(pin "CC1101_GDO0" bidirectional
+			(at 181.61 90.17 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify left)
+			)
+			(uuid "9a4858f7-0921-4d5f-9c9a-ba0f9ae06f56")
+		)
+		(pin "CC1101_MISO" output
+			(at 181.61 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify left)
+			)
+			(uuid "a6a9a238-6113-4857-ba2f-262b7e9cf7a3")
+		)
+		(pin "CC1101_MOSI" input
+			(at 181.61 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify left)
+			)
+			(uuid "52eeb04d-47a5-4bfe-85ef-8ab8ab69c777")
+		)
+		(pin "CC1101_SCK" input
+			(at 181.61 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify left)
+			)
+			(uuid "1120af1c-0ee6-490e-ade0-2b3ac3bc5130")
+		)
+		(instances
+			(project "Anteres-Receiver"
+				(path "/913f19a9-8bde-4f1b-98e5-ff93dc166c2f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 69.215)
+		(size 44.45 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9e0f384a-3af8-4b88-80d4-15bc064113ca")
+		(property "Sheetname" "MCU"
+			(at 101.6 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 101.6 107.8996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DBG_SWCLK" input
+			(at 146.05 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify right)
+			)
+			(uuid "4910746d-c3f5-474b-9640-2acc8361aa37")
+		)
+		(pin "DBG_SWDIO" bidirectional
+			(at 146.05 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify right)
+			)
+			(uuid "910b3921-7755-4a09-8ed9-66270eb392c6")
+		)
+		(pin "CC1101_MISO" input
+			(at 146.05 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify right)
+			)
+			(uuid "2e4b2fe1-33cb-463b-a9c0-80f718bcbf98")
+		)
+		(pin "CC1101_MOSI" input
+			(at 146.05 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify right)
+			)
+			(uuid "55382315-421e-4fac-89c8-5a9cc2a1f9e1")
+		)
+		(pin "CC1101_SCK" output
+			(at 146.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify right)
+			)
+			(uuid "ab920f8d-347c-4c2c-bcb6-d126da6af895")
+		)
+		(pin "CC1101_~{CS}" input
+			(at 146.05 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify right)
+			)
+			(uuid "5d8d92f0-b000-4094-b16a-350ea8fd176e")
+		)
+		(pin "PS2_DATA" output
+			(at 101.6 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify left)
+			)
+			(uuid "b389b7eb-98bf-4354-9416-43c06355e8ab")
+		)
+		(pin "DBG_RX" input
+			(at 146.05 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify right)
+			)
+			(uuid "0844660e-098a-4abf-adb5-0292c64bf461")
+		)
+		(pin "DBG_TX" output
+			(at 146.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify right)
+			)
+			(uuid "d8dbd456-1029-4851-9271-19f8f367e07a")
+		)
+		(pin "PS2_ACK" output
+			(at 101.6 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify left)
+			)
+			(uuid "8a3c5d3e-c710-4e87-bea6-3cbd281df199")
+		)
+		(pin "PS2_CMD" input
+			(at 101.6 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify left)
+			)
+			(uuid "7ca9c610-2d69-470b-a3ad-764fab8545e1")
+		)
+		(pin "PS2_ATT" input
+			(at 101.6 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify left)
+			)
+			(uuid "d961cff3-9c9b-42eb-93e7-41b345435e19")
+		)
+		(pin "PS2_SCK" input
+			(at 101.6 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify left)
+			)
+			(uuid "11b44303-df5c-4b7e-8145-7164d506dff0")
+		)
+		(pin "DBG_~{RST}" input
+			(at 146.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify right)
+			)
+			(uuid "35226aa2-6aea-42cc-aaf1-c80258e54d88")
+		)
+		(pin "CC1101_GDO0" bidirectional
+			(at 146.05 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify right)
+			)
+			(uuid "0cafa441-fbed-4790-b748-84c3f7157d73")
+		)
+		(pin "CC1101_GDO2" bidirectional
+			(at 146.05 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 132 132 0 1)
+				)
+				(justify right)
+			)
+			(uuid "3c792eb9-52e9-4fd1-a807-058061d8a616")
+		)
+		(instances
+			(project "Anteres-Receiver"
+				(path "/913f19a9-8bde-4f1b-98e5-ff93dc166c2f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.165 69.215)
+		(size 24.765 15.875)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e9fe0128-2257-4c11-a845-bd992ef5ec74")
+		(property "Sheetname" "PS2 Connection"
+			(at 50.165 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ps2_conn.kicad_sch"
+			(at 50.165 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PS2_ATT" output
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify right)
+			)
+			(uuid "584f47f9-27a0-4481-8143-2b9f4e36e905")
+		)
+		(pin "PS2_ACK" input
+			(at 74.93 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify right)
+			)
+			(uuid "a57862c1-59d2-4725-8995-4db98deca958")
+		)
+		(pin "PS2_SCK" output
+			(at 74.93 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify right)
+			)
+			(uuid "08a3a2e4-afca-405c-838a-5b34b5d15e90")
+		)
+		(pin "PS2_DATA" input
+			(at 74.93 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify right)
+			)
+			(uuid "7f7191f4-1782-4a07-91e4-dbc7197fc34e")
+		)
+		(pin "PS2_CMD" output
+			(at 74.93 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 194 194 1)
+				)
+				(justify right)
+			)
+			(uuid "fa3c3d4a-042f-436a-8a6a-46668bb25f76")
+		)
+		(instances
+			(project "Anteres-Receiver"
+				(path "/913f19a9-8bde-4f1b-98e5-ff93dc166c2f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 181.61 69.215)
+		(size 30.48 13.335)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ff7d4670-8310-49fa-8ab4-66b40bec6c0f")
+		(property "Sheetname" "Debugging"
+			(at 181.61 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "debugging.kicad_sch"
+			(at 181.61 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DBG_RX" output
+			(at 181.61 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "89117330-9c31-4482-9157-93cad18324b2")
+		)
+		(pin "DBG_TX" input
+			(at 181.61 76.2 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "5cd8272c-623c-4c26-969b-51359dbb2aa9")
+		)
+		(pin "DBG_SWCLK" output
+			(at 181.61 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "81ef0617-fb05-42a8-8cb8-443a8ffff5c6")
+		)
+		(pin "DBG_~{RST}" output
+			(at 181.61 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "9c5472a1-15aa-4ba5-b532-1156a8884808")
+		)
+		(pin "DBG_SWDIO" bidirectional
+			(at 181.61 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "9947f584-484a-4d9f-ba0a-330047156a2d")
+		)
+		(instances
+			(project "Anteres-Receiver"
+				(path "/913f19a9-8bde-4f1b-98e5-ff93dc166c2f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
