@@ -5,10 +5,10 @@
 	(uuid "3dab5324-526f-4528-bd8a-1ba225c61c83")
 	(paper "A4")
 	(title_block
-		(title "Project Antares - Receiver")
-		(date "2024-08-22")
-		(rev "Rev 1")
-		(company "Ouroboros Embedded Education")
+		(title "Project Antares - Receiver Schematic")
+		(date "2024-08-23")
+		(rev "1.0.0")
+		(company "Ouroboros Embedded Development")
 		(comment 1 "Pablo Jean Rozario")
 	)
 	(lib_symbols
