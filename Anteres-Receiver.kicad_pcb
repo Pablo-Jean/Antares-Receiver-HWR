@@ -122,7 +122,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "output/drill")
+			(outputdirectory "output/1.0.0/Drill Files")
 		)
 	)
 	(net 0 "")
