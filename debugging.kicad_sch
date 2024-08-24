@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Project Antares - Receiver Schematic")
-		(date "2024-08-23")
-		(rev "1.0.0")
+		(date "2024-08-24")
+		(rev "1.0.1")
 		(company "Ouroboros Embedded Development")
 		(comment 1 "Pablo Jean Rozario")
 	)
@@ -1024,7 +1024,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25202"
+		(property "LCSC" "C22859"
 			(at 130.81 90.17 0)
 			(effects
 				(font
@@ -1033,7 +1033,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0100T5E"
+		(property "PN" "0603WAF100JT5E"
 			(at 130.81 90.17 0)
 			(effects
 				(font
@@ -1109,7 +1109,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25202"
+		(property "LCSC" "C22859"
 			(at 130.81 97.79 0)
 			(effects
 				(font
@@ -1118,7 +1118,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0100T5E"
+		(property "PN" "0603WAF100JT5E"
 			(at 130.81 97.79 0)
 			(effects
 				(font
@@ -1194,7 +1194,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25202"
+		(property "LCSC" "C22859"
 			(at 130.81 95.25 0)
 			(effects
 				(font
@@ -1203,7 +1203,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0100T5E"
+		(property "PN" "0603WAF100JT5E"
 			(at 130.81 95.25 0)
 			(effects
 				(font
@@ -1382,7 +1382,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25202"
+		(property "LCSC" "C22859"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -1391,7 +1391,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0100T5E"
+		(property "PN" "0603WAF100JT5E"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -1533,7 +1533,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25202"
+		(property "LCSC" "C22859"
 			(at 130.81 92.71 0)
 			(effects
 				(font
@@ -1542,7 +1542,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0100T5E"
+		(property "PN" "0603WAF100JT5E"
 			(at 130.81 92.71 0)
 			(effects
 				(font

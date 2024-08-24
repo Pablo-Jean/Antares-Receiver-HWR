@@ -500,18 +500,18 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "output/1.0.0/Gerber X2",
-      "pos_files": "output/1.0.0/Placement",
+      "plot": "Output/1.0.1/Gerber X2",
+      "pos_files": "Output/1.0.1/Placement",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "/mnt/A68A1E388A1E0589/GoogleDrive/Pablo Arquivos/Projetos/1--Defaults--/Kicad-A4-L-Sheet.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "output/1.0.0/Bill Of Materials.csv",
+    "bom_export_filename": "Output/1.0.1/Bill of Materials.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

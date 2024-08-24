@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Project Antares - Receiver Schematic")
-		(date "2024-08-23")
-		(rev "1.0.0")
+		(date "2024-08-24")
+		(rev "1.0.1")
 		(company "Ouroboros Embedded Development")
 		(comment 1 "Pablo Jean Rozario")
 	)
@@ -1542,7 +1542,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25999"
+		(property "LCSC" "C23162"
 			(at 113.03 71.12 0)
 			(effects
 				(font
@@ -1551,7 +1551,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0472T5E"
+		(property "PN" "0603WAF4701T5E"
 			(at 113.03 71.12 0)
 			(effects
 				(font
@@ -2659,7 +2659,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25999"
+		(property "LCSC" "C23162"
 			(at 120.65 71.12 0)
 			(effects
 				(font
@@ -2668,7 +2668,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0472T5E"
+		(property "PN" "0603WAF4701T5E"
 			(at 120.65 71.12 0)
 			(effects
 				(font

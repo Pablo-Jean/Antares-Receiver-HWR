@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Project Antares - Receiver Schematic")
-		(date "2024-08-23")
-		(rev "1.0.0")
+		(date "2024-08-24")
+		(rev "1.0.1")
 		(company "Ouroboros Embedded Development")
 		(comment 1 "Pablo Jean Rozario")
 	)
@@ -3684,7 +3684,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25201"
+		(property "LCSC" "C22775"
 			(at 224.79 99.06 0)
 			(effects
 				(font
@@ -3693,7 +3693,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0101T5E"
+		(property "PN" "0603WAF1000T5E"
 			(at 224.79 99.06 0)
 			(effects
 				(font
@@ -3922,7 +3922,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25201"
+		(property "LCSC" "C22775"
 			(at 224.79 104.14 0)
 			(effects
 				(font
@@ -3931,7 +3931,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "0603WAJ0101T5E"
+		(property "PN" "0603WAF1000T5E"
 			(at 224.79 104.14 0)
 			(effects
 				(font
@@ -4007,7 +4007,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2930027"
+		(property "LCSC" "C25804"
 			(at 105.41 119.38 0)
 			(effects
 				(font
@@ -4016,7 +4016,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "FRC0603J103TS"
+		(property "PN" "0603WAF1002T5E"
 			(at 105.41 119.38 0)
 			(effects
 				(font
@@ -4224,7 +4224,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2930027"
+		(property "LCSC" "C25804"
 			(at 224.79 41.91 0)
 			(effects
 				(font
@@ -4233,7 +4233,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "FRC0603J103TS"
+		(property "PN" "0603WAF1002T5E"
 			(at 224.79 41.91 0)
 			(effects
 				(font
@@ -4936,7 +4936,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2907127"
+		(property "LCSC" "C23345"
 			(at 224.79 93.98 0)
 			(effects
 				(font
@@ -4945,7 +4945,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "FRC0603J221 TS"
+		(property "PN" "0603WAF220JT5E"
 			(at 224.79 93.98 0)
 			(effects
 				(font
@@ -5284,7 +5284,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2930027"
+		(property "LCSC" "C25804"
 			(at 234.95 33.02 0)
 			(effects
 				(font
@@ -5293,7 +5293,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "FRC0603J103TS"
+		(property "PN" "0603WAF1002T5E"
 			(at 234.95 33.02 0)
 			(effects
 				(font

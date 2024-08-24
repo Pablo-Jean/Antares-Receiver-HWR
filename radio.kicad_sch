@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Project Antares - Receiver Schematic")
-		(date "2024-08-23")
-		(rev "1.0.0")
+		(date "2024-08-24")
+		(rev "1.0.1")
 		(company "Ouroboros Embedded Development")
 		(comment 1 "Pablo Jean Rozario")
 	)
@@ -1610,6 +1610,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 88.9) (xy 118.11 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1293ab46-ebfa-42b9-8bc5-2aaa66b2318a")
+	)
+	(wire
+		(pts
 			(xy 116.84 121.92) (xy 120.65 121.92)
 		)
 		(stroke
@@ -2057,6 +2067,16 @@
 			(type default)
 		)
 		(uuid "8eb9b634-6c73-44f1-a956-75fa4e5d8499")
+	)
+	(wire
+		(pts
+			(xy 118.11 88.9) (xy 118.11 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ed6dba0-75c0-416d-a561-0614649739a4")
 	)
 	(wire
 		(pts
@@ -3653,6 +3673,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 118.11 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56c4178b-7844-4e42-9fa5-2397a89f884f")
+		(property "Reference" "#PWR0403"
+			(at 118.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 118.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "232fe68f-d466-4d53-ae78-fa5b5843de63")
+		)
+		(instances
+			(project "Anteres-Receiver"
+				(path "/913f19a9-8bde-4f1b-98e5-ff93dc166c2f/3dac5b74-5ae0-4a49-abdb-9165c94eab1b"
+					(reference "#PWR0403")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 99.06 120.65 0)
 		(unit 1)
@@ -3706,7 +3792,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C114630"
+		(property "LCSC" "C23206"
 			(at 99.06 120.65 0)
 			(effects
 				(font
@@ -3715,7 +3801,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "RC0603FR-0756KL"
+		(property "PN" "0603WAF5602T5E"
 			(at 99.06 120.65 0)
 			(effects
 				(font
