@@ -274,7 +274,7 @@
 	)
 	(sheet
 		(at 181.61 87.63)
-		(size 30.48 19.685)
+		(size 30.48 18.415)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -294,7 +294,7 @@
 			)
 		)
 		(property "Sheetfile" "radio.kicad_sch"
-			(at 181.61 107.8996 0)
+			(at 181.61 106.6296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
